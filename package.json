@@ -1,0 +1,17 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "cli for getting weather",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "node",
+    "weather"
+  ],
+  "author": "Ivan Opanasiuk <vanjoker88@gmail.com>",
+  "license": "ISC"
+}
